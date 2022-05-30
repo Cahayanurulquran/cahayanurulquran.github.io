@@ -1,0 +1,25 @@
+{
+  "terminal.integrated.env.linux": {
+    "PATH": "node_modules/.bin:bin:${env:PATH}"
+  },
+  "terminal.integrated.env.windows": {
+    "PATH": "node_modules\\.bin;bin;${env:PATH}"
+  },
+  "npm.enableRunFromFolder": true,
+  "files.autoSave": "onWindowChange",
+  "files.autoSaveDelay": 30000,
+  "typescript.tsc.autoDetect": "on",
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "emmet.includeLanguages": {
+    "ejs": "html",
+  },
+  "editor.wordWrap": "on",
+  "editor.bracketPairColorization.enabled": true,
+  "javascript.suggestionActions.enabled": false,
+  "typescript.suggestionActions.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  }
+}
