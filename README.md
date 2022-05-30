@@ -17,3 +17,7 @@ generate static files
 ```bash
 hexo generate
 ```
+deploy to github pages
+```bash
+hexo deploy
+```
