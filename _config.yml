@@ -61,7 +61,19 @@ include: null
 exclude: null
 ignore: null
 theme: icarus
+# Git Deployment https://hexo.io/docs/one-command-deployment.html#Git
 deploy:
   type: 'git'
   repo: 'https://github.com/Cahayanurulquran/cahayanurulquran.github.io'
   branch: 'gh-pages'
+# Feed Atom https://github.com/hexojs/hexo-generator-feed
+feed:
+  # include contents in feeds
+  content: true
+  # Generate both atom and rss2 feeds
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss.xml
