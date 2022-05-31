@@ -17,7 +17,7 @@ $ npm install hexo-theme-icarus
 $ hexo config theme icarus
 ```
 
-Please refer to [Getting Started with Icarus](https://ppoffice.github.io/hexo-theme-icarus/uncategorized/getting-started-with-icarus/) 
+Please refer to [Getting Started with Icarus](https://ppoffice.github.io/hexo-theme-icarus/uncategorized/getting-started-with-icarus/)
 for more details.
 
 ## :gift: Features
@@ -53,7 +53,7 @@ AddThis &middot; AddToAny &middot; Baidu Share &middot; Share.js &middot; ShareT
 
 **[Widgets](https://ppoffice.github.io/hexo-theme-icarus/categories/Widgets/)**
 
-Google Adsense &middot; Archives &middot; Categories &middot; External Site Links &middot; 
+Google Adsense &middot; Archives &middot; Categories &middot; External Site Links &middot;
 Recent Posts &middot; Google Feedburner &middot; Tags &middot; Table of Contents
 
 **[Analytics](https://ppoffice.github.io/hexo-theme-icarus/Plugins/Analytics/icarus-user-guide-web-analytics-plugins/)**
@@ -141,7 +141,7 @@ This project is built with
 - [Stylus](https://stylus-lang.com/)
 - [Bulma](https://bulma.io/)
 
-Please refer to the [documentation](https://ppoffice.github.io/hexo-theme-icarus/categories/) and 
+Please refer to the [documentation](https://ppoffice.github.io/hexo-theme-icarus/categories/) and
 [contributing guide](https://github.com/ppoffice/hexo-theme-icarus/blob/master/CONTRIBUTING.md) for implementation details.
 
 ## :tada: Contribute

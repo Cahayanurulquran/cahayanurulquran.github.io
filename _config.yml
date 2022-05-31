@@ -1,11 +1,11 @@
-title: NAMA BLOG
-subtitle: 'NAMA SUB'
-description: 'DESKRIPSI BLOG'
+title: CAHAYA NURUL QURAN
+subtitle: "CAHAYA NURUL QURAN"
+description: "DESKRIPSI BLOG"
 keywords: null
-author: NANANG NURJAMAN
+author: Khoirul AbrorS
 language: en
-timezone: 'Asia/Jakarta'
-url: http://cahayanurulquran.github.io
+timezone: "Asia/Jakarta"
+url: http://nurulquran.github.io
 permalink: :title.html #:title/
 permalink_defaults: null
 pretty_urls:
@@ -17,16 +17,16 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
-i18n_dir: ':lang'
+i18n_dir: ":lang"
 skip_render: null
 root: /
-new_post_name: ':title.md'
+new_post_name: ":title.md"
 default_layout: post
 titlecase: false
 external_link:
   enable: true
   field: site
-  exclude: ''
+  exclude: ""
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
@@ -36,18 +36,18 @@ highlight:
   enable: true
   line_number: true
   auto_detect: false
-  tab_replace: ''
+  tab_replace: ""
   wrap: true
   hljs: false
 prismjs:
   enable: false
   preprocess: true
   line_number: true
-  tab_replace: ''
+  tab_replace: ""
 index_generator:
-  path: ''
+  path: ""
   per_page: 10
-  order_by: '-date'
+  order_by: "-date"
 default_category: uncategorized
 category_map: null
 tag_map: null
@@ -67,9 +67,9 @@ theme: icarus
 
 # Git Deployment https://hexo.io/docs/one-command-deployment.html#Git
 deploy:
-  type: 'git'
-  repo: 'https://github.com/Cahayanurulquran/cahayanurulquran.github.io'
-  branch: 'gh-pages'
+  type: "git"
+  repo: "https://github.com/nurulquran/nurulquran.github.io"
+  branch: "gh-pages"
 
 # Feed Atom https://github.com/hexojs/hexo-generator-feed
 feed:
