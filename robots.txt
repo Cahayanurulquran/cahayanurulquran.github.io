@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /?display=wide
+Allow: /wp-content/uploads/
+Disallow: /readme.html
+Disallow: /refer/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+
+Sitemap: http://cahayanurulquran.github.io/sitemap.xml
